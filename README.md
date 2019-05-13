@@ -1,2 +1,2 @@
-# TechTuitions
-Programs of TechTuitions blog
+# Machine Learning Exercises
+
